@@ -42,7 +42,7 @@ function removeFromCart(productId) {
 
 // Clear cart
 function clearCart() {
-	localStorage.removeItem("PRODUCT");
+	localStorage.clear();
 }
 
 // Initial render
