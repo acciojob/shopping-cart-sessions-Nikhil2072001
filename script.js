@@ -48,3 +48,4 @@ function clearCart() {
 // Initial render
 renderProducts();
 renderCart();
+renderProducts();
